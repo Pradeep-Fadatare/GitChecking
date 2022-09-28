@@ -4,5 +4,8 @@ public class FirstJavaProject {
         System.out.println("byy");
         System.out.println("tata");
         //jbsjabhh
+        System.out.println("Jato mi");
+        System.out.println("Janar aahe");
+        System.out.println("Janar aahe fixx"); 
     }
 }

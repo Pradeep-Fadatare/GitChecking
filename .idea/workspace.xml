@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="6f256a68-53fc-4c28-b14c-6ebb9288d4ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
     <list default="true" id="54c4bbf2-c3df-4e96-8148-d7ea6b2785a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstJavaProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstJavaProject.java" afterDir="false" />
+>>>>>>> 3501b35cec39f9c098ba9c07f4e08cc4dbfe66f5
+>>>>>>> 20e1c4b8997a6a5ee8e65a6901b3dd3cf7bcaecf
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,13 +20,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+=======
+>>>>>>> 3501b35cec39f9c098ba9c07f4e08cc4dbfe66f5
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2FOuG2ycLp3WWgLE3JjoWBAiGTp" />
+<<<<<<< HEAD
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitChecking" />
+=======
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 3501b35cec39f9c098ba9c07f4e08cc4dbfe66f5
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -30,6 +56,8 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
   <component name="RunManager">
     <configuration name="FirstJavaProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstJavaProject" />
@@ -44,16 +72,25 @@
       </list>
     </recent_temporary>
   </component>
+>>>>>>> 3501b35cec39f9c098ba9c07f4e08cc4dbfe66f5
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="6f256a68-53fc-4c28-b14c-6ebb9288d4ec" name="Default Changelist" comment="" />
+      <created>1664375352267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664375352267</updated>
+=======
       <changelist id="54c4bbf2-c3df-4e96-8148-d7ea6b2785a9" name="Default Changelist" comment="" />
       <created>1664380639757</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664380639757</updated>
+>>>>>>> 3501b35cec39f9c098ba9c07f4e08cc4dbfe66f5
     </task>
     <servers />
   </component>
