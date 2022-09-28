@@ -6,6 +6,6 @@ public class FirstJavaProject {
         //jbsjabhh
         System.out.println("Jato mi");
         System.out.println("Janar aahe");
-        System.out.println("Janar aahe fixx");
+        System.out.println("Janar aahe fixx"); 
     }
 }
