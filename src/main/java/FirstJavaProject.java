@@ -7,11 +7,13 @@ public class FirstJavaProject {
         System.out.println("Jato mi");
         System.out.println("Janar aahe");
         System.out.println("Janar aahe fixx");
-<<<<<<< HEAD
-=======
 
         System.out.println("All indians are my brothers and sisters");
         System.out.println("All  my brothers and sisters");
->>>>>>> b571dee5da489318077d4609579cdf09e8ba1611
+        System.out.println("adding new branch");
+        System.out.println("adding new branch1");
+        System.out.println("adding new branch2");
+
+
     }
 }
