@@ -14,6 +14,9 @@ public class FirstJavaProject {
         System.out.println("adding new branch1");
         System.out.println("adding new branch2");
 
+        }
 
+        public void method(){
+            System.out.println("Checking new develope commit");
     }
 }
